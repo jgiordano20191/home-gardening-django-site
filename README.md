@@ -15,3 +15,6 @@
 8.  one tree in back replace
 9.  plant dogwood
 10.  palm trees
+
+
+Phase 1:  Deploy docker image to AWS ECS with Python Django application for main webpage
