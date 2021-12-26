@@ -1,6 +1,9 @@
 # home-landscaping-progression-website
 
-2022 landscaping work, automation options
+2022 landscaping work
+== build django site
+== put in docker container on EKS/Fargate, reduce server admin task
+== put together automation functionaility for maintenance for tasks where available, track on website
 
 1.  automate weeding
 2.  grass seed
