@@ -1,6 +1,6 @@
 # home-landscaping-progression-website
 
-2022 landscaping work
+2022 landscaping work, automation options
 
 1.  automate weeding
 2.  grass seed
