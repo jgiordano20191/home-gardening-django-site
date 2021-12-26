@@ -1,4 +1,4 @@
-# home-landscaping-progression-website
+# home-gardening-website-with-automation (iot,bots)
 
 2022 landscaping work
 == build django site
